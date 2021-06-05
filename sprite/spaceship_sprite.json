@@ -1,0 +1,124 @@
+{"frames": {
+
+"spaceship_explode1.png":
+{
+	"frame": {"x":579,"y":68,"w":64,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":19,"w":64,"h":59},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_explode2.png":
+{
+	"frame": {"x":645,"y":68,"w":64,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":19,"w":64,"h":59},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_explode3.png":
+{
+	"frame": {"x":711,"y":68,"w":64,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":19,"w":64,"h":59},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_explode4.png":
+{
+	"frame": {"x":579,"y":1,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":19,"w":65,"h":65},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_explode5.png":
+{
+	"frame": {"x":646,"y":1,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":19,"w":65,"h":65},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_explode6.png":
+{
+	"frame": {"x":778,"y":1,"w":64,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":21,"w":64,"h":63},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_explode7.png":
+{
+	"frame": {"x":713,"y":1,"w":63,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":18,"w":63,"h":64},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_left1.png":
+{
+	"frame": {"x":96,"y":1,"w":88,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_left2.png":
+{
+	"frame": {"x":435,"y":1,"w":65,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":7,"w":65,"h":87},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_left3.png":
+{
+	"frame": {"x":362,"y":1,"w":71,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":2,"w":71,"h":87},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_right1.png":
+{
+	"frame": {"x":1,"y":1,"w":93,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_right2.png":
+{
+	"frame": {"x":276,"y":1,"w":84,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":84,"h":90},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_right3.png":
+{
+	"frame": {"x":502,"y":1,"w":86,"h":75},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":25,"w":86,"h":75},
+	"sourceSize": {"w":100,"h":100}
+},
+"spaceship_straight.png":
+{
+	"frame": {"x":186,"y":1,"w":88,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":100},
+	"sourceSize": {"w":100,"h":100}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spaceship_sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":842,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a712fd98793069e5b83bcdca211ca2ce:5e449153aa5c52de1732c9ea54c7510d:cc60f0728ae9db5687dc1e7f1cd26f54$"
+}
+}
